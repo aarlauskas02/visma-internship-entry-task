@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShortageManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed7b1eeb396a462de1cc167fb02d90796247ffdc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07d4064ff5ec38e564ff3e61e919327b8edcc732")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShortageManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShortageManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -26,3 +26,4 @@ b:\visma\internship\Visma Internship Entrance Task\visma-internship-entry-task\S
 b:\visma\internship\Visma Internship Entrance Task\visma-internship-entry-task\ShortageManager\obj\Debug\net9.0\ShortageManager.pdb
 b:\visma\internship\Visma Internship Entrance Task\visma-internship-entry-task\ShortageManager\obj\Debug\net9.0\ShortageManager.genruntimeconfig.cache
 b:\visma\internship\Visma Internship Entrance Task\visma-internship-entry-task\ShortageManager\obj\Debug\net9.0\ref\ShortageManager.dll
+b:\visma\internship\Visma Internship Entrance Task\visma-internship-entry-task\ShortageManager\obj\Debug\net9.0\ShortageManager.sourcelink.json
