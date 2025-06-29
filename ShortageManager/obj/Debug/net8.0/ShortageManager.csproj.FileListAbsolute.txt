@@ -1,0 +1,4 @@
+B:\visma\internship\Visma Internship Entrance Task\ShortageManager\obj\Debug\net8.0\ShortageManager.GeneratedMSBuildEditorConfig.editorconfig
+B:\visma\internship\Visma Internship Entrance Task\ShortageManager\obj\Debug\net8.0\ShortageManager.AssemblyInfoInputs.cache
+B:\visma\internship\Visma Internship Entrance Task\ShortageManager\obj\Debug\net8.0\ShortageManager.AssemblyInfo.cs
+B:\visma\internship\Visma Internship Entrance Task\ShortageManager\obj\Debug\net8.0\ShortageManager.csproj.CoreCompileInputs.cache
